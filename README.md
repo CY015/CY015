@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CY015
-- 👀 I’m interested in NLP, Android and some tiny but useful scripts
+- 👀 I’m interested in NLP, C#, Android and some tiny but useful scripts
 - 🌱 I’m currently learning Nerual Network
 - 💞️ I’m looking to collaborate on ...?
 - 📫 If neccesary, reach me via cy51337941@gmail.com or cheyi_gho@163.com
